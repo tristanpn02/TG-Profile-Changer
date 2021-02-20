@@ -15,4 +15,4 @@ You can run the program manually using ```python main.py``` or if you wish to ch
 
 **Before setting up automation** (systemd, crontab etc.), you will have to run the code manually with ```python main.py``` and log in using authentication (*input your phone number, put in auth code*) and **make sure that your working directory is set to the repository** otherwise the program will not use your login session or load your pictures from the specified directory if full directory path is not given.
 
-#### Feel free to modify to your liking and cheers for in advance!
+#### Feel free to modify to your liking and cheers in advance!
