@@ -8,6 +8,8 @@ You can install the required packages manually listed in `requirements.txt` usin
 
 You will have to modify `config.py` with your `api_id` and `api_hash` to login to Telegram, you can find these at https://my.telegram.org/auth. If you'd like, you can also change the `session_name` (*login without auth*) and `dir` (*directory of your images*).
 
+Finally, just slap some images into the directory specified by `dir` in `config.py`!
+
 ## Running
 You can run the program manually using ```python main.py``` or if you wish to change your profile picture immediately, you can use ```python now.py``` (I know, it's a pretty lazy method X3)
 
